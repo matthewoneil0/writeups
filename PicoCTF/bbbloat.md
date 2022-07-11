@@ -13,7 +13,7 @@ Here I changed the function name to 'checkNumber', renamed the integer we are co
 
 Knowing this. My next thought is to run the program in gdb and examine 0x86187 in memory after running the program.
 
-![program2](imgs/bbbloat3.png)
+![program2](/imgs/bbbloat3.png)
 
 I only use the *run* command here to run the program, and then the *print* command with the specific memory address to print the value of it. 
 
